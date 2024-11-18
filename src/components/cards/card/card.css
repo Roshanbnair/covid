@@ -1,0 +1,11 @@
+.value {
+  font-size: 30px;
+  font-weight: 600;
+}
+.title {
+  font-size: 25px;
+  font-weight: 500;
+}
+.card {
+  position: relative;
+}
